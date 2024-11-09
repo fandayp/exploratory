@@ -2,7 +2,7 @@
 
 This repository is intended as a compilation of various exploratory machine learning and data science projects I've completed to apply new techniques and technologies to real-world problems.
 
-## Customer Review Topic Clustering
+## [Customer Review Topic Clustering](https://github.com/fandayp/exploratory_projects/blob/main/customer-review-topic-clustering.ipynb)
 
 ---
 
