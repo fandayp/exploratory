@@ -1,6 +1,6 @@
 # Welcome to my exploratory projects!
 
-This repository is intended as a compilation of various exploratory machine learning and data science projects I've completed to apply new techniques and technologies to real-world problems.
+This repository is intended as a compilation of machine learning and data science projects that I've completed to apply new technologies to solve real-world problems.
 
 ## Customer Review Topic Clustering
 
