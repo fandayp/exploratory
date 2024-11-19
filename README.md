@@ -5,15 +5,17 @@ This repository is intended as a compilation of machine learning and data scienc
 ## Customer Review Topic Clustering
 
 ---
-Notebook: [main](https://github.com/fandayp/exploratory_projects/blob/main/customer-review-topic-clustering.ipynb)
+Notebook: [main](https://github.com/fandayp/exploratory_projects/blob/main/customer_review_clustering.ipynb)
 
-As a business owner, customer reviews can be a valuable source of insight. This project aims to segment user reviews into several topics for easier analysis.
+As a business owner, customer reviews can be a valuable source of insight.
+
+This project aims to segment user reviews into several topics for easier analysis.
 
 The key components of our project include:
-- **Review clustering**: to segment customer reviews into distinct clusters by representing the reviews as word vectors (combination of pre-trained [Transformer model](https://github.com/UKPLab/sentence-transformers) and self-train [Word2Vec model](https://radimrehurek.com/gensim/models/word2vec.html)),
-- **Topic labeling**: to label review topics within each cluster using a large language model (LLM).
+- **Review clustering**: to divide customer reviews into distinct clusters by representing the reviews as word vectors or word embeddings. The word vectors are obtained from several sources, such as pre-trained [Transformer model](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2), self-train [Word2Vec model](https://radimrehurek.com/gensim/models/word2vec.html), concatenated word vectors, and fine-tuned Transformer model
+- **Topic labeling**: to label review topics within each cluster using a large language model (LLM) API, such as OpenAI.
 
-**Keywords**: review clustering, nlp, word vector, embedding, llm, word2vec, pca, autoencoder
+**Keywords**: review clustering, word vector, embedding, word2vec, transformer, fine-tuning
 
 ## Timeseries prediction with AutoML
 
