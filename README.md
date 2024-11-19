@@ -7,9 +7,7 @@ This repository is intended as a compilation of machine learning and data scienc
 ---
 Notebook: [main](https://github.com/fandayp/exploratory_projects/blob/main/customer_review_clustering.ipynb)
 
-As a business owner, customer reviews can be a valuable source of insight.
-
-This project aims to segment user reviews into several topics for easier analysis.
+As a business owner, customer reviews can be a valuable source of insight. This project aims to divide customer reviews into several clusters for easier analysis.
 
 The key components of our project include:
 - **Review clustering**: to divide customer reviews into distinct clusters by representing the reviews as word vectors or word embeddings. The word vectors are obtained from several sources, such as pre-trained [Transformer model](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2), self-train [Word2Vec model](https://radimrehurek.com/gensim/models/word2vec.html), concatenated word vectors, and fine-tuned Transformer model
