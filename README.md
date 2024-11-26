@@ -4,7 +4,6 @@ This repository is intended as a compilation of machine learning and data scienc
 
 ## Sleep Stage Classification using Transformer Model (Ongoing)
 
----
 Notebook: [main](https://github.com/fandayp/exploratory/blob/main/sleep-stage-clf-transformer.ipynb)
 
 Currently, sleep stage annotation is typically performed by trained experts, a process that can take several hours to annotate a single sleep study session. This creates an opportunity for automation, where machine learning models could significantly reduce the time and effort required for this task.
@@ -19,7 +18,6 @@ Building on this progress, the objective of this project is to employ a transfor
 
 ## Customer Review Topic Clustering
 
----
 Notebook: [main](https://github.com/fandayp/exploratory/blob/main/customer_review_clustering.ipynb)
 
 As a business owner, customer reviews can be a valuable source of insight. This project aims to divide customer reviews into several clusters for easier analysis.
@@ -32,7 +30,6 @@ The key components of our project include:
 
 ## Timeseries prediction with AutoML
 
----
 Notebook: [data preparation](https://github.com/fandayp/exploratory/blob/main/timeseries_automl_prepare_data.ipynb), [main](https://github.com/fandayp/exploratory/blob/main/timeseries_automl.ipynb)
 
 **Forecasting**, or predicting the future value of a variable based on time series data, benefits many real-world business sectors. Its implementation can easily be found in various areas around us, such as weather prediction, stock market forecasting, and sales prediction. However, time series modeling is complex and differs from other machine learning problems, such as classification or regression.
