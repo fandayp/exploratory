@@ -2,7 +2,7 @@
 
 This repository is intended as a compilation of machine learning and data science projects that I've completed to apply new technologies to solve real-world problems.
 
-## Sleep Stage Classification using Transformer Model
+## Sleep Stage Classification using Transformer Model (Ongoing)
 
 ---
 Notebook: [main](https://github.com/fandayp/exploratory/blob/main/sleep-stage-clf-transformer.ipynb)
